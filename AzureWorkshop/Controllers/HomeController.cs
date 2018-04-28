@@ -11,6 +11,7 @@ using Microsoft.WindowsAzure.Storage.Blob;
 
 namespace AzureWorkshop.Controllers
 {
+    //lalalal
     public class HomeController : Controller
     {
         // GET: Home
